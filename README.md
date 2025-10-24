@@ -1,2 +1,6 @@
-# kingsmedew.github.uk
-I am a motivated and results-driven Administrative and Accounts Professional with over 10 years of experience leveraging modern tools and techniques to achieve organizational goals.
+My name is Ikechukwu Kingsley Egbede, and I am a Logistics and Data Analyst Professional with a focus on marine logistics. I am also skilled in analyzing data to identify issues and uncover opportunities that can increase your revenue, leveraging my years of experience as a Data Analyst.
+I am a motivated and results-driven Administrative and Accounts Professional with over 5 years of experience leveraging modern tools and techniques to achieve organizational goals.
+I have taken on projects that involve demonstrating core skills, such as data cleaning, analysis, and visualization, as well as exploring datasets and projects focused on specific business problems, including car sales performance analysis. 
+I am a graduate of business administration from the University of Lagos and also a graduate of Citadel of Digital Skills Academy, where I had my training on Data Analysis with Microsoft Excel, which has a broad skill set including Business Analysis, Domain Analysis, Data Preparation, Data Modelling, Data Analysis, Data Visualization, and Data Reporting, among other certifications.
+I am looking to collaborate on projects related to data analysis and Logistics.
+You can reach me at my Gmail: ikechukwuegbede@gmail.com
